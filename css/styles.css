@@ -142,7 +142,7 @@ img {
 }
 
 /*Button*/
-.buttone-area {
+.buttone-section {
   background: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
   padding-top: 188px;
@@ -244,12 +244,10 @@ img {
 
 /*Our Team*/
 
-.team-container {}
-
-.our-team-area {
-  background: var(--CLOUD, #f4f4fd);
+.our-team-section {
   padding-top: 120px;
   padding-bottom: 120px;
+  background: var(--CLOUD, #f4f4fd);
 }
 
 .text-under-photo {
